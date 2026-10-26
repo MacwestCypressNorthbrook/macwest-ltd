@@ -14,7 +14,7 @@ export const mainNav: readonly NavItem[] = [
     href: "/about-us",
     children: [
       { label: "Who We Are", href: "/about-us" },
-      { label: "Leadership", href: "/board-members" },
+      // { label: "Leadership", href: "/board-members" },
     ],
   },
   {
