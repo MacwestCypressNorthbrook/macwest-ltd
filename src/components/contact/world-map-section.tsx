@@ -127,11 +127,7 @@ export function WorldMapSection() {
                         geography={geo}
                         fill="url(#dot-land)"
                         stroke="none"
-                        style={{
-                          default: { outline: "none" },
-                          hover:   { outline: "none" },
-                          pressed: { outline: "none" },
-                        }}
+                        style={{ outline: "none" }}
                       />
                     ))
                   }

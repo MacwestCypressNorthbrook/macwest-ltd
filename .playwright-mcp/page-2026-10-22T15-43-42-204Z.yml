@@ -1,0 +1,169 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Macwest Limited — home" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Macwest" [ref=e8]
+        - navigation [ref=e10]:
+          - link "About Us" [ref=e12] [cursor=pointer]:
+            - /url: /about-us
+          - link "Services" [ref=e16] [cursor=pointer]:
+            - /url: /services
+          - link "Projects" [ref=e20] [cursor=pointer]:
+            - /url: /projects
+          - link "Gallery" [ref=e24] [cursor=pointer]:
+            - /url: /gallery
+      - link "Contact" [ref=e26] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e31]:
+    - generic [ref=e34]:
+      - heading "Contact" [level=1] [ref=e37]
+      - paragraph [ref=e38]: Office locations, phone, email, and project enquiries.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - paragraph [ref=e44]: / get in touch /
+        - generic [ref=e45]:
+          - generic [ref=e46]: We
+          - generic [ref=e48]: are
+          - generic [ref=e50]: always
+          - generic [ref=e52]: ready
+          - generic [ref=e54]: to
+          - generic [ref=e56]: help
+          - generic [ref=e58]: you
+          - generic [ref=e60]: and
+          - generic [ref=e62]: answer
+          - generic [ref=e64]: your
+          - generic [ref=e66]: questions
+        - paragraph [ref=e69]: From civil infrastructure to MEP and structural engineering — certified, precise, and built to international standards. Reach out and let's get started.
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - paragraph [ref=e72]: Call Center
+            - paragraph [ref=e73]: +233 24 427 0797
+            - paragraph [ref=e74]: +233 (0) 50 978 8332
+          - generic [ref=e75]:
+            - paragraph [ref=e76]: Our Location
+            - paragraph [ref=e77]: Accra, Greater Accra
+            - paragraph [ref=e78]: Region, Ghana
+          - generic [ref=e79]:
+            - paragraph [ref=e80]: Email
+            - paragraph [ref=e81]: info@macwest.com
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: Social network
+            - generic [ref=e84]:
+              - link "Facebook" [ref=e85] [cursor=pointer]:
+                - /url: "#"
+              - link "X" [ref=e88] [cursor=pointer]:
+                - /url: "#"
+              - link "LinkedIn" [ref=e91] [cursor=pointer]:
+                - /url: "#"
+              - link "YouTube" [ref=e95] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - heading "Get in Touch" [level=3] [ref=e102]
+          - paragraph [ref=e103]: Define your goals and identify areas where we can add value to your project.
+        - generic [ref=e104]:
+          - textbox "Full name" [ref=e107]
+          - textbox "Email" [ref=e110]
+          - generic [ref=e112]:
+            - generic [ref=e113]: Service Type
+            - combobox "Service Type" [ref=e115] [cursor=pointer]:
+              - option "General Inquiry" [selected]
+              - option "Civil Construction"
+              - option "Housing Estates"
+              - option "Concrete Works"
+              - option "Mechanical, Electrical & Plumbing"
+              - option "Ghacem Cement Supply"
+              - option "Procurement Services"
+              - option "Softworks & Augmented Services"
+          - textbox "Subject" [ref=e118]
+          - textbox "Message" [ref=e121]
+          - button "Send a message" [ref=e124]
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - paragraph [ref=e130]: / our locations /
+        - generic [ref=e131]:
+          - generic [ref=e132]: Where
+          - generic [ref=e134]: to
+          - generic [ref=e136]: find
+          - generic [ref=e138]: us
+        - paragraph [ref=e141]: Headquartered in Ghana with a growing international footprint — delivering certified engineering excellence across borders.
+        - generic [ref=e142]:
+          - button "🇬🇭 Accra, Ghana Greater Accra Region, Ghana" [ref=e144]:
+            - generic [ref=e145]: 🇬🇭
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: Accra, Ghana
+              - paragraph [ref=e148]: Greater Accra Region, Ghana
+          - button "🇬🇭 Takoradi, Ghana Western Region, Ghana" [ref=e151]:
+            - generic [ref=e152]: 🇬🇭
+            - generic [ref=e153]:
+              - paragraph [ref=e154]: Takoradi, Ghana
+              - paragraph [ref=e155]: Western Region, Ghana
+      - img [ref=e159]:
+        - generic [ref=e160] [cursor=pointer]
+        - generic [ref=e164] [cursor=pointer]
+  - contentinfo [ref=e168]:
+    - generic [ref=e170]:
+      - generic [ref=e172]:
+        - link [ref=e173] [cursor=pointer]:
+          - /url: /
+          - img "Macwest Logo" [ref=e174]
+        - paragraph [ref=e175]: "Macwest Limited: Ghana's leader in certified civil engineering, housing estates, and industrial infrastructure since 2011."
+        - generic [ref=e176]:
+          - link "LinkedIn" [ref=e177] [cursor=pointer]:
+            - /url: "#"
+          - link "Twitter" [ref=e180] [cursor=pointer]:
+            - /url: "#"
+          - link "Github" [ref=e183] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e187]:
+        - paragraph [ref=e188]: Navigate
+        - list [ref=e189]:
+          - listitem [ref=e190]:
+            - link "About Us" [ref=e191] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e192]:
+            - link "Services" [ref=e193] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e194]:
+            - link "Projects" [ref=e195] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=e196]:
+            - link "Gallery" [ref=e197] [cursor=pointer]:
+              - /url: /gallery
+      - generic [ref=e199]:
+        - paragraph [ref=e200]: Expertise
+        - list [ref=e201]:
+          - listitem [ref=e202]:
+            - link "Guiding principles" [ref=e203] [cursor=pointer]:
+              - /url: /guiding-principles
+          - listitem [ref=e204]:
+            - link "Organizational structure" [ref=e205] [cursor=pointer]:
+              - /url: /organizational-structure
+          - listitem [ref=e206]:
+            - link "QHSE policy" [ref=e207] [cursor=pointer]:
+              - /url: /hse-policy-statement
+      - generic [ref=e209]:
+        - generic [ref=e210]:
+          - paragraph [ref=e211]: Contact Office
+          - generic [ref=e212]:
+            - link "info@macwest.com.gh" [ref=e213] [cursor=pointer]:
+              - /url: mailto:info@macwest.com.gh
+            - link "+233 (0) 244 270797" [ref=e218] [cursor=pointer]:
+              - /url: tel:+233(0)244270797
+            - generic [ref=e222]: No 12 Joseph Richard Asiedu St, Accra-Ghana
+        - generic [ref=e227]:
+          - generic [ref=e228]: ISO 45001:2018
+          - generic [ref=e231]: ISO 9001:2015
+          - generic [ref=e234]: ISO 14001:2015
+    - generic [ref=e240]:
+      - paragraph [ref=e241]: Building Ghana's infrastructure — certified, precise, and built to last.
+      - paragraph [ref=e242]: info@macwest.com.gh
+    - generic [ref=e243]:
+      - paragraph [ref=e244]: © 2026 Macwest Limited · RC NO. CA-89,951
+      - generic [ref=e245]:
+        - link "Privacy Policy" [ref=e246] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Terms of Service" [ref=e247] [cursor=pointer]:
+          - /url: /terms
