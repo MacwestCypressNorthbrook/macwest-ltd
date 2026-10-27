@@ -2,7 +2,6 @@
 export const staticRoutes = [
   "/",
   "/about-us",
-  "/board-members",
   "/guiding-principles",
   "/organizational-structure",
   "/services",
